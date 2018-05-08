@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Mecha.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"B:\Program Files (x86)\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\UnrealEngine\Mecha\Intermediate\Build\Win64\UE4Editor\Development\Mecha\Mecha.cpp.obj"
+"F:\UnrealEngine\Mecha\Intermediate\Build\Win64\UE4Editor\Development\Mecha\MechaCharacter.cpp.obj"
+"F:\UnrealEngine\Mecha\Intermediate\Build\Win64\UE4Editor\Development\Mecha\MechaGameMode.cpp.obj"
+"F:\UnrealEngine\Mecha\Intermediate\Build\Win64\UE4Editor\Development\Mecha\MechaHUD.cpp.obj"
+"F:\UnrealEngine\Mecha\Intermediate\Build\Win64\UE4Editor\Development\Mecha\MechaProjectile.cpp.obj"
+"F:\UnrealEngine\Mecha\Intermediate\Build\Win64\UE4Editor\Development\Mecha\Mecha.init.gen.cpp.obj"
+"F:\UnrealEngine\Mecha\Intermediate\Build\Win64\UE4Editor\Development\Mecha\MechaCharacter.gen.cpp.obj"
+"F:\UnrealEngine\Mecha\Intermediate\Build\Win64\UE4Editor\Development\Mecha\MechaGameMode.gen.cpp.obj"
+"F:\UnrealEngine\Mecha\Intermediate\Build\Win64\UE4Editor\Development\Mecha\MechaHUD.gen.cpp.obj"
+"F:\UnrealEngine\Mecha\Intermediate\Build\Win64\UE4Editor\Development\Mecha\MechaProjectile.gen.cpp.obj"
+"B:\Program Files (x86)\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Mecha\PCLaunch.rc.res"
+"B:\Program Files (x86)\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"F:\UnrealEngine\Mecha\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Mecha.lib"
